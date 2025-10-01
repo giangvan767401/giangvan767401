@@ -1,4 +1,6 @@
 こんにちは、Phạm Văn Giang です！
+🌱Full-Stack Engineering Student | 💻 Web & AI Enthusiast
+🎓 フェニシア大学 – ベトナム - 日本 情報技術
 
 <!--
 **giangvan767401/giangvan767401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
