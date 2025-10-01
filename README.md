@@ -1,41 +1,44 @@
-# 👋 こんにちは、Phạm Văn Giang / ファム・ヴァン・ジャン です！
+#  こんにちは、Phạm Văn Giang / ファム・ヴァン・ジャン です！
 
-🌱 Full-Stack Engineering Student | 💻 AI Enthusiast  
+ Full-Stack Engineering Student | 💻 AI Enthusiast  
 🎓 フェニシア大学 – ベトナム - 日本 情報技術
 
 ---
 
 ## 📌 自己紹介 
-🧠 興味のある分野：機械学習・コンピュータビジョン・Web開発
+ 興味のある分野：機械学習・コンピュータビジョン・Web開発
 
 🌏 日本語・英語・ベトナム語が話せます。
 
-✍️ 趣味：読書、バドミントン
+ 趣味：読書、バドミントン
 
 ---
 
 ## 🛠 使用言語 (Tech Stack)
-Python · JavaScript
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+
+**フレームワーク**
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
 
 ---
 
-## 🌟 主なプロジェクト (Featured Projects)
-- 👋 DevShare-Lite
+##  主なプロジェクト (Featured Projects)
+-restaurant-management
 
----
-
-## 📈 GitHub Stats
-
-![Thành Đạt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
 
 ---
 
 ## 📫 連絡先 (Contact)
-- 📧 Email: datpltn205@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/thànhđạt](https://linkedin.com/in/thànhđạt)  
-
+ 📧 Email: pgiang456123@gmail.com   
 ---
 
 Thank you for visiting my profile!  
